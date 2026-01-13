@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If this repository has helped you during your research, feel free to cite it as follows:"
+authors:
+  - family-names: "Brzustowicz"
+    given-names: "Sebastian"
+    email: "Se.Brzustowicz@gmail.com"
+title: "Quadcopter-control-system: Quadcopter simulation in MATLAB/Simulink"
+version: 1.0.0
+date-released: 2023-12-20
+url: "https://github.com/sebastianbrzustowicz/Quadcopter-control-system"
+repository-code: "https://github.com/sebastianbrzustowicz/Quadcopter-control-system"
+keywords:
+  - quadcopter
+  - drone-simulation
+  - matlab
+  - simulink
+  - control-theory
+  - pd-controller
+  - attitude-control
+  - robotics
+  - aerospace-engineering
+  - linear-control
+abstract: >-
+  A comprehensive MATLAB/Simulink framework for modeling and designing control 
+  systems for quadcopters. The project features a PD-based attitude regulation 
+  approach, auxiliary scripts for physical parameter identification, and 
+  extensive visualization tools for trajectory and position tracking analysis.
