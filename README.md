@@ -32,3 +32,23 @@ Control system structure:
 `Moment_of_inertia` - script for specifying quadcopter model parameters (rigid body)   
 `Motors_characteristics` - script for specifying quadcopter model parameters (motors)  
 `Tensometer_calibration` - script for calibrating a measuring tool  
+
+## Citation
+
+If this repository has helped you during your research, feel free to cite it:
+
+**APA Style**
+> Brzustowicz, S. (2023). Quadcopter-control-system: Quadcopter simulation in MATLAB/Simulink (Version 1.0.0) [Source code]. https://github.com/sebastianbrzustowicz/Quadcopter-control-system
+
+**BibTeX**
+```bibtex
+@software{brzustowicz_quadcopter_control_2023,
+  author = {Sebastian Brzustowicz},
+  title = {Quadcopter-control-system: Quadcopter simulation in MATLAB/Simulink},
+  url = {https://github.com/sebastianbrzustowicz/Quadcopter-control-system},
+  version = {1.0.0},
+  year = {2023}
+}
+```
+> [!TIP]
+> You can also use the **"Cite this repository"** button in the sidebar to automatically copy these citations or download the raw metadata file.
